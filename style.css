@@ -8,11 +8,6 @@ html {
   background-color: #100f1f;
 }
 
-.TITLE {
-  color: whitesmoke;
-  font-family: 'Climate Crisis', cursive;
-}
-
 body {
   padding: 0px 0px 0px 0px;
   margin: 0%;
@@ -25,10 +20,6 @@ body {
         margin: auto;
         margin-top: 20px;
     }
-}
-
-#GAUCHE {
-  background-color: green;
 }
 
 #TOP {
@@ -44,10 +35,6 @@ body {
   margin: auto;
 }
 
-#DROITE {
-  background-color: yellow;
-}
-
 #PROMPT-FOOTER {
   padding: 18px;
 }
@@ -55,14 +42,6 @@ body {
 .Title {
   font-size: 40px;
   font-family: 'Climate Crisis', cursive;
-}
-
-.sous-exp {
-  display: flex;
-  text-align: right;
-  max-width: 40px;
-  justify-content: right;
-  flex-direction: column;
 }
 
 .tablink {
@@ -215,11 +194,6 @@ button:hover {
 }
 
 @media (max-width: 768px) {
-  
-  .TITLE {
-  color: whitesmoke;
-  font-family: 'Climate Crisis', cursive;
-}
 
   .desc  {
   color: whitesmoke;
